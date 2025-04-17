@@ -1,0 +1,1 @@
+Re-synthesize the song "Toei Nazaninam" performed by Parviz Khoshrazm using a Hayedeh voice model. Retain Hayedeh's signature emotional tone, vocal strength, and traditional Persian singing style. Ensure the output maintains the original melody, tempo, and instrumental structure while sounding natural and high-quality.
